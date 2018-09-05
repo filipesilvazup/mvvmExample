@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExempleMVVM</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+</resources>
